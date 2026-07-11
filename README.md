@@ -20,7 +20,7 @@ Java
 
 | Day   |   Topic  | Status|
 |-------|----------|------ |
-| Day 1 |   Arrays |   ✅ |
+| Day 01 |   Arrays |   ✅ |
 | Day 2 | Pending  |   ⏳ |
 | Day 3 | Pending  |   ⏳ |
 | Day 4 | Pending  |   ⏳ |

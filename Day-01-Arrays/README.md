@@ -1,4 +1,4 @@
-# 📅 Day 1 - Arrays
+# 📅 Day-01-Arrays
 
 ## 🎯 Goal
 Learn the fundamentals of arrays by solving basic array manipulation problems and practicing simple LeetCode questions.
