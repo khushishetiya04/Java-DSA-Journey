@@ -18,26 +18,17 @@ Java
 
 ## Progress
 
-| Day   |   Topic  | Status|
-|-------|----------|------ |
-| Day 01 |   Arrays |   ✅ |
-| Day 2 | Pending  |   ⏳ |
-| Day 3 | Pending  |   ⏳ |
-| Day 4 | Pending  |   ⏳ |
-| Day 5 | Pending  |   ⏳ |
+| Day   |    Topic  | Status
+|-------|-----------|--------
+| Day 01|   Arrays  |   ✅ 
+| Day 02|   Sorting |   ✅
+| Day 3 | Pending  |   ⏳
+| Day 4 | Pending  |   ⏳ 
+| Day 5 | Pending  |   ⏳ 
 
 ---
 
 ## Topics
 
 - Arrays
-- Strings
-- Searching
 - Sorting
-- Two Pointers
-- Sliding Window
-- HashMap
-- Stack
-- Queue
-- Trees
-- Graphs
