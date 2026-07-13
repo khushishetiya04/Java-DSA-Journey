@@ -35,7 +35,7 @@
 |    88       | Merge Sorted Array          |    Easy    | ✅    
 |    905      | Sort Array By Parity        |    Easy    | ✅    
 |    977      | Squares of a Sorted Array   |    Easy    | ✅     
-|   1051      | Height Checker              |    Easy    | ✅     
+|    1051     | Height Checker              |    Easy    | ✅     
 
 ---
 
