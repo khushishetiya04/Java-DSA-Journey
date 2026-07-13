@@ -18,13 +18,13 @@ Java
 
 ## Progress
 
-| Day   |    Topic  | Status
-|-------|-----------|--------
-| Day 01|   Arrays  |   ✅ 
-| Day 02|   Sorting |   ✅
-| Day 3 | Pending  |   ⏳
-| Day 4 | Pending  |   ⏳ 
-| Day 5 | Pending  |   ⏳ 
+| Day    |   Topic         | Status
+|--------|-----------------|--------
+| Day 01 |   Arrays        |   ✅ 
+| Day 02 |   Sorting       |   ✅
+| Day 03 |   Two-Pointers  |   ✅
+| Day 4  |   Pending       |   ⏳ 
+| Day 5  |   Pending       |   ⏳ 
 
 ---
 
