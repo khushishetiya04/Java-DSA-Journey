@@ -24,7 +24,8 @@ Java
 | Day 02 |   Sorting            |   ✅
 | Day 03 |   Two-Pointers       |   ✅
 | Day 04 |   Kadanes-Algorithm  |   ✅ 
-| Day 05 |   PrefixSum         |   ✅ 
+| Day 05 |   PrefixSum          |   ✅ 
+| Day 06 |   Sliding-Window     |   ✅ 
 
 ---
 
@@ -35,3 +36,4 @@ Java
 - Two-Pointers
 - Kadanes-Algorithm
 - Prefix Sum
+- Sliding-Window
