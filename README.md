@@ -26,6 +26,7 @@ Java
 | Day 04 |   Kadanes-Algorithm  |   ✅ 
 | Day 05 |   PrefixSum          |   ✅ 
 | Day 06 |   Sliding-Window     |   ✅ 
+| Day 07 |   BinarySearch       |   ✅ 
 
 ---
 
@@ -37,3 +38,4 @@ Java
 - Kadanes-Algorithm
 - Prefix Sum
 - Sliding-Window
+- BinarySearch
