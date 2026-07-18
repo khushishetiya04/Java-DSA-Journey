@@ -28,6 +28,10 @@ Java
 | Day 06 |   Sliding-Window     |   ✅ 
 | Day 07 |   BinarySearch       |   ✅ 
 | Day 08 |   2D-Arrays          |   ✅ 
+| Day 09 |   ArrayList          |   ✅ 
+
+
+
 
 ---
 
@@ -37,7 +41,9 @@ Java
 - Sorting
 - Two-Pointers
 - Kadanes-Algorithm
-- Prefix Sum
+- PrefixSum
 - Sliding-Window
 - BinarySearch
 - 2D-Arrays
+- ArrayList
+
