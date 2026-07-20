@@ -29,6 +29,8 @@ Java
 | Day 07 |   BinarySearch       |   ✅ 
 | Day 08 |   2D-Arrays          |   ✅ 
 | Day 09 |   ArrayList          |   ✅ 
+| Day 10 |   StringBasics       |   ✅ 
+
 
 
 
@@ -46,4 +48,5 @@ Java
 - BinarySearch
 - 2D-Arrays
 - ArrayList
+- StringBasics
 
