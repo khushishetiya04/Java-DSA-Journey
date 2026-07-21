@@ -30,6 +30,8 @@ Java
 | Day 08 |   2D-Arrays          |   ✅ 
 | Day 09 |   ArrayList          |   ✅ 
 | Day 10 |   StringBasics       |   ✅ 
+| Day 11 |   String-Algorithm   |   ✅ 
+
 
 
 
@@ -49,4 +51,5 @@ Java
 - 2D-Arrays
 - ArrayList
 - StringBasics
+- String-Algorithm
 
