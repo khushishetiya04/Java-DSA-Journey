@@ -31,6 +31,7 @@ Java
 | Day 09 |   ArrayList          |   ✅ 
 | Day 10 |   StringBasics       |   ✅ 
 | Day 11 |   String-Algorithm   |   ✅ 
+| Day 12 |   HashMap            |   ✅ 
 
 
 
@@ -52,4 +53,5 @@ Java
 - ArrayList
 - StringBasics
 - String-Algorithm
+- HashMap
 
