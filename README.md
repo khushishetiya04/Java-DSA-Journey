@@ -32,8 +32,7 @@ Java
 | Day 10 |   StringBasics       |   ✅ 
 | Day 11 |   String-Algorithm   |   ✅ 
 | Day 12 |   HashMap            |   ✅ 
-
-
+| Day 13 |   HashSet            |   ✅ 
 
 
 
@@ -54,4 +53,5 @@ Java
 - StringBasics
 - String-Algorithm
 - HashMap
+- HashSet
 
