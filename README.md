@@ -33,6 +33,8 @@ Java
 | Day 11 |   String-Algorithm   |   ✅ 
 | Day 12 |   HashMap            |   ✅ 
 | Day 13 |   HashSet            |   ✅ 
+| Day 14 |   Bit-Manipulation   |   ✅ 
+
 
 
 
@@ -54,4 +56,5 @@ Java
 - String-Algorithm
 - HashMap
 - HashSet
+- Bit-Manipulation
 
