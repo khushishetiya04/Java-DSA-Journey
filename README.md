@@ -34,6 +34,8 @@ Java
 | Day 12 |   HashMap            |   ✅ 
 | Day 13 |   HashSet            |   ✅ 
 | Day 14 |   Bit-Manipulation   |   ✅ 
+| Day 15 |   Recursion-Part-1   |   ✅ 
+
 
 
 
@@ -57,4 +59,5 @@ Java
 - HashMap
 - HashSet
 - Bit-Manipulation
+- Recursion-Part-1
 
