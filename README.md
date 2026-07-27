@@ -18,24 +18,25 @@ Java
 
 ## Progress
 
-| Day    |   Topic              | Status
-|--------|----------------------|--------
-| Day 01 |   Arrays             |   ✅ 
-| Day 02 |   Sorting            |   ✅
-| Day 03 |   Two-Pointers       |   ✅
-| Day 04 |   Kadanes-Algorithm  |   ✅ 
-| Day 05 |   PrefixSum          |   ✅ 
-| Day 06 |   Sliding-Window     |   ✅ 
-| Day 07 |   BinarySearch       |   ✅ 
-| Day 08 |   2D-Arrays          |   ✅ 
-| Day 09 |   ArrayList          |   ✅ 
-| Day 10 |   StringBasics       |   ✅ 
-| Day 11 |   String-Algorithm   |   ✅ 
-| Day 12 |   HashMap            |   ✅ 
-| Day 13 |   HashSet            |   ✅ 
-| Day 14 |   Bit-Manipulation   |   ✅ 
-| Day 15 |   Recursion-Part-1   |   ✅ 
-| Day 16 |   Recursion-Part-2  |   ✅ 
+| Day    |   Topic                | Status
+|--------|------------------------|--------
+| Day 01 |   Arrays               |   ✅ 
+| Day 02 |   Sorting              |   ✅
+| Day 03 |   Two-Pointers         |   ✅
+| Day 04 |   Kadanes-Algorithm    |   ✅ 
+| Day 05 |   PrefixSum            |   ✅ 
+| Day 06 |   Sliding-Window       |   ✅ 
+| Day 07 |   BinarySearch         |   ✅ 
+| Day 08 |   2D-Arrays            |   ✅ 
+| Day 09 |   ArrayList            |   ✅ 
+| Day 10 |   StringBasics         |   ✅ 
+| Day 11 |   String-Algorithm     |   ✅ 
+| Day 12 |   HashMap              |   ✅ 
+| Day 13 |   HashSet              |   ✅ 
+| Day 14 |   Bit-Manipulation     |   ✅ 
+| Day 15 |   Recursion-Part-1     |   ✅ 
+| Day 16 |   Recursion-Part-2     |   ✅ 
+| Day 17 |   Divide-and-Conquer   |   ✅ 
 
 
 
@@ -63,4 +64,5 @@ Java
 - Bit-Manipulation
 - Recursion-Part-1
 - Recursion-Part-2
+- Divide-and-Conquer
 
