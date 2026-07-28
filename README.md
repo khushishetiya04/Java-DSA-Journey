@@ -37,6 +37,7 @@ Java
 | Day 15 |   Recursion-Part-1     |   ✅ 
 | Day 16 |   Recursion-Part-2     |   ✅ 
 | Day 17 |   Divide-and-Conquer   |   ✅ 
+| Day 18 |   Backtracking-Part-1  |   ✅ 
 
 
 
@@ -65,4 +66,5 @@ Java
 - Recursion-Part-1
 - Recursion-Part-2
 - Divide-and-Conquer
+- Backtracking-Part-1
 
