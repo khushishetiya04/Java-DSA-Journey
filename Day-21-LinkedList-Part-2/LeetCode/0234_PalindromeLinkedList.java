@@ -1,0 +1,75 @@
+/*
+ * LeetCode: 234
+ * Problem: Palindrome Linked List
+ * Difficulty: Easy
+ *
+ * Description:
+ * Given the head of a singly linked list,
+ * return true if it is a palindrome,
+ * otherwise return false.
+ *
+ * Approach:
+ * 1. Find the middle of the list.
+ * 2. Reverse the second half.
+ * 3. Compare both halves.
+ *
+ * Pattern:
+ * Fast & Slow Pointer, Reverse Linked List
+ *
+ * Time Complexity : O(n)
+ * Space Complexity: O(1)
+ */
+
+/**
+ * Definition for singly-linked list.
+ * public class ListNode {
+ *     int val;
+ *     ListNode next;
+ *     ListNode() {}
+ *     ListNode(int val) { this.val = val; }
+ *     ListNode(int val, ListNode next) {
+ *         this.val = val;
+ *         this.next = next;
+ *     }
+ * }
+ */
+
+class Solution {
+    public boolean isPalindrome(ListNode head) {
+        if (head == null || head.next == null) {
+            return true;
+        }
+
+        // Find middle
+        ListNode slow = head;
+        ListNode fast = head;
+
+        while (fast != null && fast.next != null) {
+            slow = slow.next;
+            fast = fast.next.next;
+        }
+
+        // Reverse second half
+        ListNode prev = null;
+
+        while (slow != null) {
+            ListNode next = slow.next;
+            slow.next = prev;
+            prev = slow;
+            slow = next;
+        }
+
+        // Compare both halves
+        ListNode first = head;
+        ListNode second = prev;
+
+        while (second != null) {
+            if (first.val != second.val) {
+                return false;
+            }
+            first = first.next;
+            second = second.next;
+        }
+        return true;
+    }
+}

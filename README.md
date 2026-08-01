@@ -40,8 +40,7 @@ Java
 | Day 18 |   Backtracking-Part-1  |   ✅ 
 | Day 19 |   Backtracking-Part-2  |   ✅ 
 | Day 20 |   LinkedList-Part-1    |   ✅ 
-
-
+| Day 20 |   LinkedList-Part-2    |   ✅ 
 
 
 
@@ -72,4 +71,4 @@ Java
 - Backtracking-Part-1
 - Backtracking-Part-2
 - LinkedList-Part-1
-
+- LinkedList-Part-2
