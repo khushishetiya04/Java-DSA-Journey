@@ -40,7 +40,9 @@ Java
 | Day 18 |   Backtracking-Part-1  |   ✅ 
 | Day 19 |   Backtracking-Part-2  |   ✅ 
 | Day 20 |   LinkedList-Part-1    |   ✅ 
-| Day 20 |   LinkedList-Part-2    |   ✅ 
+| Day 21 |   LinkedList-Part-2    |   ✅ 
+| Day 22 |   Stack-Part-1         |   ✅ 
+
 
 
 
@@ -72,3 +74,4 @@ Java
 - Backtracking-Part-2
 - LinkedList-Part-1
 - LinkedList-Part-2
+- Stack-Part-1
