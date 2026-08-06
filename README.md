@@ -43,6 +43,7 @@ Java
 | Day 21 |   LinkedList-Part-2    |   ✅ 
 | Day 22 |   Stack-Part-1         |   ✅ 
 | Day 23 |   Stack-Part-2         |   ✅ 
+| Day 24 |   Queue                |   ✅ 
 
 
 
@@ -78,3 +79,4 @@ Java
 - LinkedList-Part-2
 - Stack-Part-1
 - Stack-Part-2
+- Queue
