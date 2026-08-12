@@ -45,6 +45,8 @@ Java
 | Day 23 |   Stack-Part-2         |   ✅ 
 | Day 24 |   Queue                |   ✅ 
 | Day 24 |   BinaryTree-Part-1    |   ✅ 
+| Day 25 |   BinaryTree-Part-2    |   ✅ 
+
 
 
 
@@ -78,3 +80,4 @@ Java
 - Stack-Part-2
 - Queue
 - BinaryTree-Part-1
+- BinaryTree-Part-2
