@@ -47,6 +47,8 @@ Java
 | Day 25 |   BinaryTree-Part-1    |   ✅ 
 | Day 26 |   BinaryTree-Part-2    |   ✅ 
 | Day 27 |   BinarySearchTree     |   ✅ 
+| Day 28 |   Heap-PriorityQueue   |   ✅ 
+
 
 
 
@@ -81,3 +83,4 @@ Java
 - BinaryTree-Part-1
 - BinaryTree-Part-2
 - BinarySearchTree
+- Heap-PriorityQueue
