@@ -49,6 +49,7 @@ Java
 | Day 27 |   BinarySearchTree     |   ✅ 
 | Day 28 |   Heap-PriorityQueue   |   ✅ 
 | Day 29 |   Trie                 |   ✅ 
+| Day 30 |   Graph                |   ✅ 
 
 
 
