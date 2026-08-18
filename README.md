@@ -88,3 +88,5 @@ Java
 - Heap-PriorityQueue
 - Trie
 - Graphs-Part-1
+- Graphs-Part-2
+
