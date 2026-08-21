@@ -50,7 +50,7 @@ Java
 | Day 28 |   Heap-PriorityQueue   |   ✅ 
 | Day 29 |   Trie                 |   ✅ 
 | Day 30 |   Graphs-Part-1        |   ✅ 
-| Day 30 |   Graphs-Part-2        |   ✅ 
+| Day 31 |   Graphs-Part-2        |   ✅ 
 
 
 
