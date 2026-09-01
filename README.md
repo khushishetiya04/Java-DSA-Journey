@@ -53,6 +53,7 @@ Java
 | Day 31 |   Graphs-Part-2                |   ✅ 
 | Day 32 |   Graphs-Part-3                |   ✅ 
 | Day 33 |   GreedyAlgorithm-Part-1       |   ✅ 
+| Day 34 |   GreedyAlgorithm-Part-2       |   ✅ 
 
 
 
@@ -96,5 +97,6 @@ Java
 - Graphs-Part-1
 - Graphs-Part-2
 - Graphs-Part-3
-- GreedyAlgorith-Part-1
+- GreedyAlgorithm-Part-1
+- GreedyAlgorithm-Part-2
 
