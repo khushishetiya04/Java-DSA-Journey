@@ -15,6 +15,8 @@
 - Range Covering
 - Array Greedy
 - Lexicographical Greedy
+- Cost-Based Greedy
+- Coin Denomination Greedy
 
 ---
 
@@ -34,6 +36,8 @@
 - Minimum Cost Merging
 - Range Coverage
 - Next Lexicographical Permutation
+- Chocola Problem
+- Indian Coin Denominations
 
 ---
 
@@ -96,6 +100,62 @@ Given ropes of different lengths, connect all ropes with minimum total cost. The
 
 ---
 
+## 3. Chocola Problem
+
+### Problem
+
+Given the costs of horizontal and vertical cuts of a chocolate, divide the chocolate into `1 × 1` pieces with minimum total cost.
+
+### Approach
+
+- Sort horizontal and vertical cut costs in decreasing order.
+- Always choose the larger cut cost first.
+- Multiply the selected cut cost by the number of pieces in the opposite direction.
+- Increase the number of pieces in the direction of the cut.
+- Process all remaining cuts.
+
+### Pattern
+
+**Greedy + Sorting**
+
+### Time Complexity
+
+`O(n log n + m log m)`
+
+### Space Complexity
+
+`O(1)` apart from sorting.
+
+---
+
+## 4. Indian Coins
+
+### Problem
+
+Given an amount, find the minimum number of Indian coins/notes required to make that amount.
+
+### Approach
+
+- Store Indian denominations in increasing order.
+- Traverse from the largest denomination to the smallest.
+- Use a `while` loop to repeatedly select the current denomination.
+- Subtract the denomination from the remaining amount.
+- Count the selected coins/notes.
+
+### Pattern
+
+**Greedy + Denominations**
+
+### Time Complexity
+
+`O(n + number of coins used)`
+
+### Space Complexity
+
+`O(1)`
+
+---
+
 # 🧩 LeetCode Problems
 
 | Problem No. | Problem Name             | Pattern                  | Difficulty 
@@ -109,8 +169,8 @@ Given ropes of different lengths, connect all ropes with minimum total cost. The
 | 1710        | Maximum Units on a Truck | Sorting + Greedy         | Easy 
 | 0253        | Meeting Rooms II         | Intervals + Min Heap     | Medium 
 | 1094        | Car Pooling              | Intervals + Events       | Medium 
-| 1326        | Minimum Number of Taps to Open to Water a Garden    | Greedy + Range Covering | Hard
-| 0031        | Next Permutation         | Greedy + Array            | Medium 
+| 1326        | Minimum Number of Taps to Open to Water a Garden    | Greedy + Range Covering | Hard 
+| 0031        | Next Permutation         | Greedy + Array           | Medium 
 
 ---
 
@@ -118,19 +178,21 @@ Given ropes of different lengths, connect all ropes with minimum total cost. The
 
 | Algorithm / Problem           | Time Complexity 
 |-------------------------------|-----------------
-| Huffman Coding                | O(n log n) 
-| Minimum Cost to Connect Ropes | O(n log n) 
-| Jump Game                     | O(n) 
-| Jump Game II                  | O(n) 
-| Gas Station                   | O(n) 
-| Assign Cookies                | O(n log n + m log m) 
-| Candy                         | O(n) 
-| Partition Labels              | O(n) 
-| Maximum Units on a Truck      | O(n log n) 
-| Meeting Rooms II              | O(n log n) 
-| Car Pooling                   | O(n log n) 
-| Minimum Number of Taps        | O(n) 
-| Next Permutation              | O(n) 
+| Huffman Coding                | `O(n log n)` 
+| Minimum Cost to Connect Ropes | `O(n log n)` 
+| Chocola Problem               | `O(n log n + m log m)` 
+| Indian Coins                  | `O(n + number of coins)` 
+| Jump Game                     | `O(n)` 
+| Jump Game II                  | `O(n)` 
+| Gas Station                   | `O(n)` 
+| Assign Cookies                | `O(n log n + m log m)` 
+| Candy                         | `O(n)` 
+| Partition Labels              | `O(n)` 
+| Maximum Units on a Truck      | `O(n log n)` 
+| Meeting Rooms II              | `O(n log n)` 
+| Car Pooling                   | `O(n + 1000)` 
+| Minimum Number of Taps        | `O(n)` 
+| Next Permutation              | `O(n)` 
 
 ---
 
@@ -140,7 +202,7 @@ Given ropes of different lengths, connect all ropes with minimum total cost. The
 - Learned the Jump Game pattern.
 - Learned how to find the minimum number of jumps using range expansion.
 - Learned greedy feasibility using the Gas Station problem.
-- Learned sorting + greedy matching.
+- Practiced sorting + greedy matching.
 - Learned the two-pass greedy technique.
 - Learned how to partition a string using last-occurrence boundaries.
 - Learned sorting + greedy for maximizing units.
@@ -151,16 +213,20 @@ Given ropes of different lengths, connect all ropes with minimum total cost. The
 - Learned Huffman Coding.
 - Learned minimum-cost merging using the Connect Ropes problem.
 - Learned greedy array manipulation using Next Permutation.
+- Learned cost-based greedy cutting using the Chocola Problem.
+- Learned denomination-based greedy selection using Indian Coins.
 - Learned how different greedy patterns can be combined with sorting, heaps, intervals, and arrays.
 
 ---
 
 # 📈 Progress
 
-## Basics (2)
+## Basics (4)
 
 - Huffman Coding
 - Minimum Cost to Connect Ropes
+- Chocola Problem
+- Indian Coins
 
 ## LeetCode Problems (11)
 
@@ -176,7 +242,7 @@ Given ropes of different lengths, connect all ropes with minimum total cost. The
 - 1326. Minimum Number of Taps to Open to Water a Garden
 - 31. Next Permutation
 
-### ✅ Total Concepts & Problems Covered: **13**
+### ✅ Total Concepts & Problems Covered: **15**
 
 ---
 
@@ -193,5 +259,7 @@ Given ropes of different lengths, connect all ropes with minimum total cost. The
 - Practiced Huffman Coding and minimum-cost rope connection.
 - Learned greedy range covering.
 - Practiced greedy array manipulation with Next Permutation.
+- Learned cost-based greedy cutting with the Chocola Problem.
+- Learned greedy denomination selection with Indian Coins.
 - Strengthened the ability to identify greedy patterns in different problem types.
-- Solved important greedy problems involving reachability, sorting, intervals, heaps, feasibility, and range coverage.
+- Solved important greedy problems involving reachability, sorting, intervals, heaps, feasibility, range coverage, and cost optimization.
